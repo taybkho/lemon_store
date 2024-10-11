@@ -1,3 +1,7 @@
+Objective :
+
+Little Lemon need you to help them set up a booking system to keep track of which guests are visiting the restaurant and at what times
+
 - By the end of this module, you’ll be able to:
 
 Set up a repository,
